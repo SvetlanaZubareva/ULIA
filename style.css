@@ -68,6 +68,15 @@
     height: 1000px;
     background-position: 60%;
   }
+  @media(max-width:768px){
+    .header-index{
+    background-image: url("./img/IMG_7024.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: 60%;
+  }
+}
 
 
 
